@@ -1,0 +1,8 @@
+{
+  "prod": {
+    "apiUrl": "https://dummy-backend-rttuh5f3wq-uc.a.run.app"
+  },
+  "dev": {
+    "apiUrl": "http://127.0.0.1:8080"
+  }
+}
